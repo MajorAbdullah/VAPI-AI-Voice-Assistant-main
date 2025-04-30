@@ -115,21 +115,13 @@ Contributions are welcome! Please follow these steps:
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a Pull Request.
 
-Please ensure your code adheres to the project's coding standards and includes tests where applicable.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (if applicable, otherwise state the license).
-
-*Note: You might need to create a LICENSE file if you choose a specific license like MIT.*
 
 ## Contact
 
 Syed Abdullah Shah
 
-* **Email:** [sa.abdullahshah.2001@gmail.com](mailto:sa.abdullahshah.2001@gmail.com)
-* **LinkedIn:** [Syed Abdullah Shah](https://www.linkedin.com/in/syed-abdullah-shah-/) `<!-- Replace with actual LinkedIn profile URL -->`
-
----
-
-*This README was generated with assistance from Trae AI.*
+- 🌐 Connect with me on LinkedIn [**LinkedIn**](http://www.linkedin.com/in/syed-abdullah-shah-4018a5176)
+- 📩 Email: [sa.abdullahshah.2001@gmail.com](mailto:sa.abdullahshah.2001@gmail.com)

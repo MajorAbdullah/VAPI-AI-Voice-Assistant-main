@@ -1,7 +1,5 @@
 # VAPI AI Voice Assistant
 
-![Voice Assistant Banner](https://via.placeholder.com/1200x300.png?text=VAPI+AI+Voice+Assistant) `<!-- Optional: Add a relevant banner image -->`
-
 ## Overview
 
 This project is a voice assistant powered by VAPI AI, featuring a React frontend and a Python backend. It enables users to interact with an AI through voice commands and receive spoken responses.
